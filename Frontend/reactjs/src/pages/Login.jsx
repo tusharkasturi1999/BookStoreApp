@@ -84,11 +84,11 @@ class Login extends React.Component {
   render() {
     return (
       <div>
-        <Grid style={{backgroundColor:"maroon"}}>
+        <Grid style={{backgroundColor:"rgba(160, 48, 55, 1)"}}>
           <Paper elevation={10} style={this.paperStyle}  >
             <Grid style={this.gridStyle}>
               <Grid align="center" style={this.headingStyle}>
-                  <h2 style={{color:"maroon"}}>
+                  <h2 style={{color:"rgba(160, 48, 55, 1)"}}>
                   
                     BookStore
                   
